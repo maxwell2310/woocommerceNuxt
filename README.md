@@ -1,7 +1,7 @@
-[![Language grade: JavaScript](https://img.shields.io/lgtm/grade/javascript/g/w3bdesign/nuxtjs-woocommerce.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/w3bdesign/nuxtjs-woocommerce/context:javascript)
-[![Codacy Badge](https://api.codacy.com/project/badge/Grade/1835e693354349ffaa703c0bbaf2b52b)](https://app.codacy.com/gh/w3bdesign/nuxtjs-woocommerce?utm_source=github.com&utm_medium=referral&utm_content=w3bdesign/nuxtjs-woocommerce&utm_campaign=Badge_Grade)
-[![CodeFactor](https://www.codefactor.io/repository/github/w3bdesign/nuxtjs-woocommerce/badge)](https://www.codefactor.io/repository/github/w3bdesign/nuxtjs-woocommerce)
-[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=w3bdesign_nuxtjs-woocommerce&metric=alert_status)](https://sonarcloud.io/dashboard?id=w3bdesign_nuxtjs-woocommerce)
+[![Language grade: JavaScript](https://img.shields.io/lgtm/grade/javascript/g/maxwell2310/nuxtjs-woocommerce.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/maxwell2310/nuxtjs-woocommerce/context:javascript)
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/1835e693354349ffaa703c0bbaf2b52b)](https://app.codacy.com/gh/maxwell2310/nuxtjs-woocommerce?utm_source=github.com&utm_medium=referral&utm_content=maxwell2310/nuxtjs-woocommerce&utm_campaign=Badge_Grade)
+[![CodeFactor](https://www.codefactor.io/repository/github/maxwell2310/nuxtjs-woocommerce/badge)](https://www.codefactor.io/repository/github/maxwell2310/nuxtjs-woocommerce)
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=maxwell2310_nuxtjs-woocommerce&metric=alert_status)](https://sonarcloud.io/dashboard?id=maxwell2310_nuxtjs-woocommerce)
 
 # NuxtJS Ecommerce site with WooCommerce backend
 
@@ -21,11 +21,11 @@
 -   [woocommerce](https://wordpress.org/plugins/woocommerce) Ecommerce for WordPress.
 -   [wp-graphql](https://wordpress.org/plugins/wp-graphql) Exposes GraphQL for WordPress.
 -   [wp-graphql-woocommerce](https://github.com/wp-graphql/wp-graphql-woocommerce) Adds WooCommerce functionality to a WPGraphQL schema. Currently only confirmed to be working with version 0.61 of this plugin.
--   [algolia-woo-indexer](https://github.com/w3bdesign/algolia-woo-indexer) Sends WooCommerce products to Algolia. Required for search to work.
+-   [algolia-woo-indexer](https://github.com/maxwell2310/algolia-woo-indexer) Sends WooCommerce products to Algolia. Required for search to work.
 
 Optional plugin:
 
--   [headless-wordpress](https://github.com/w3bdesign/headless-wp) Disables the frontend so only the backend is accessible.
+-   [headless-wordpress](https://github.com/maxwell2310/headless-wp) Disables the frontend so only the backend is accessible.
 -   [wp-graphql-cors](https://github.com/funkhaus/wp-graphql-cors) Ensures that CORS works correctly. Remember to add the domain to the store under `Extend "Access-Control-Allow-Origin” header`
 
 The current release has been tested and is confirmed working with the following versions:
