@@ -1,7 +1,7 @@
-[![Language grade: JavaScript](https://img.shields.io/lgtm/grade/javascript/g/maxwell2310/nuxtjs-woocommerce.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/maxwell2310/nuxtjs-woocommerce/context:javascript)
-[![Codacy Badge](https://api.codacy.com/project/badge/Grade/1835e693354349ffaa703c0bbaf2b52b)](https://app.codacy.com/gh/maxwell2310/nuxtjs-woocommerce?utm_source=github.com&utm_medium=referral&utm_content=maxwell2310/nuxtjs-woocommerce&utm_campaign=Badge_Grade)
-[![CodeFactor](https://www.codefactor.io/repository/github/maxwell2310/nuxtjs-woocommerce/badge)](https://www.codefactor.io/repository/github/maxwell2310/nuxtjs-woocommerce)
-[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=maxwell2310_nuxtjs-woocommerce&metric=alert_status)](https://sonarcloud.io/dashboard?id=maxwell2310_nuxtjs-woocommerce)
+[![Language grade: JavaScript](https://img.shields.io/lgtm/grade/javascript/g/maxwell2310/woocommerceNuxt.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/maxwell2310/woocommerceNuxt/context:javascript)
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/1835e693354349ffaa703c0bbaf2b52b)](https://app.codacy.com/gh/maxwell2310/woocommerceNuxt?utm_source=github.com&utm_medium=referral&utm_content=maxwell2310/woocommerceNuxt&utm_campaign=Badge_Grade)
+[![CodeFactor](https://www.codefactor.io/repository/github/maxwell2310/woocommerceNuxt/badge)](https://www.codefactor.io/repository/github/maxwell2310/woocommerceNuxt)
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=maxwell2310_woocommerceNuxt&metric=alert_status)](https://sonarcloud.io/dashboard?id=maxwell2310_woocommerceNuxt)
 
 # NuxtJS Ecommerce site with WooCommerce backend
 
